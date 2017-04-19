@@ -6,3 +6,5 @@ accumulates news about the framework. It is an OpenSource project developed by
 
 This repository contains screens and mocks for YiiFeed redesign created by
 [Anna Bezborodova](mailto:design@annabezborodova.com).
+
+![](https://github.com/samdark/yiifeed-redesign/blob/master/screens/desktop/user/guest%20news%20list.png?raw=true)
